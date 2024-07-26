@@ -1,0 +1,12 @@
+**Currency Converter (Limited Currency Support)**
+
+This Java application provides a simple currency converter, allowing users to convert amounts between specific currencies. 
+However, it's essential to note that this converter supports only a predefined set of currencies. The available currency pairs include:
+- **USD (United States Dollar)**
+- **KWD (Kuwaiti Dinar)**
+- **BHD (Baharaini Dinar)**
+- **CHF (Swiss Franc)**
+- **AUD (Australian Dollar)**
+- **INR (Indian Rupee)**
+If you need to convert between other currencies not listed above, you'll need to extend the codebase by adding additional currency exchange rates. 
+Feel free to explore and modify the code to suit your specific requirements. Happy converting! 😊🌍💱
