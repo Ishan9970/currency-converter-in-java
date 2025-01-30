@@ -40,3 +40,4 @@ Feel free to **fork, modify, and contribute** to this project! If you have any f
 Thank you for using the **Currency Converter!** 💸💱  
 
 ---
+
